@@ -1,12 +1,11 @@
 // Prints answers to FizzBuzz game for user specified number of turns
 
-#include<cstdlib>
 #include<iostream>
 #include<string>
 
 using namespace std;
 
-void fizzBuzz(int num);
+void fizzBuzz(int);
 
 int main(int argc, char** argv) {
     
